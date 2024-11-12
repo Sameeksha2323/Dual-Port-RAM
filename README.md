@@ -15,6 +15,8 @@ Sanjay Kumar Saini
 Presentation:
 !(https://www.canva.com/design/DAGTvxuOlXA/8aKrtdbtJZaXSVuQFBUUJg/edit?utm_content=DAGTvxuOlXA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+Report: [IN PROCESS]
+
 Specification:
 The following table shows pin descriptions for a dual-port RAM with synchronous read (read through) and two clocks.
 IO pins | Description
