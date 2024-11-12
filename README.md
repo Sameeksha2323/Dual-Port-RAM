@@ -1,5 +1,16 @@
 # Dual_port_ram
-dual clock dual port ram using verilog and system verilog
+Dual Clock Dual Port RAM using verilog
+
+Team 1:
+Name | College
+Sameeksha | Delhi Technological University
+Aishani | DCRUST
+Ananya Singhal | Ajay Kumar Garg Engineering College
+Amritha Anujan | IIIT Kottayam
+
+Mentor:
+Sanjay Kumar Saini
+
 Specification:
 The following table shows pin descriptions for a dual-port RAM with synchronous read (read through) and two clocks.
 IO pins | Description
