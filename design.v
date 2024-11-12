@@ -29,20 +29,5 @@ read_addrb <= addrb;
 end
 assign dob = ram[read_addrb];
 assign doa = ram[read_addra]; 
-/*
-
-
-
-  always @(posedge clk) begin  
-      if (en)  
-        begin  
-          if (we)  
-            ram[addra] <= di;  
-            read_addra <= addra;  
-            read_addrb <= addrb;  
-        end  
-  end  
-  assign doa = ram[read_addra];  
-  assign dob = ram[read_addrb];  */
 endmodule 
 
