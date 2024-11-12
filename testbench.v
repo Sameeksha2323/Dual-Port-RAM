@@ -1,29 +1,4 @@
-// Code your testbench here
-// or browse Examples
-
-
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:Teekam Chand Khandelwal
-//
-// Create Date:   19:26:25 11/07/2020
-// Design Name:   raminfr
-// Module Name:   C:/Users/khand/Documents/Custom Office Templates/dual_port_ram/tb.v
-// Project Name:  dual_port_ram
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: raminfr
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
-
+// testbench
 module top;
 
 	// Inputs
