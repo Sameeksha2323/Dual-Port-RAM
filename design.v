@@ -1,25 +1,4 @@
-// Code your design here
-// Code your design here
-
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:TEEKAM CHAND KHANDELWAL 
-// 
-// Create Date:    18:48:55 11/07/2020 
-// Design Name: 
-// Module Name:    dual_port 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
+// the design code
 module raminfr  
     (clk1,clk2, wea, addra, addrb, dia,dib,web, doa, dob);  
  
