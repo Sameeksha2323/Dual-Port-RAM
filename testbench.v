@@ -62,15 +62,6 @@ module top;
         initial begin 
     $dumpfile("top.vcd");
     $dumpvars(0,top);
-  end
-      
-		// Add stimulus here
-
-		// Wait 100 ns for global reset to finis
-        
-		// Add stimulus here
-
-	
-      
+  end   
 endmodule
 
