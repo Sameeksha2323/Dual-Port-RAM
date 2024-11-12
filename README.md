@@ -18,19 +18,7 @@ Presentation:
 Report: [IN PROCESS]
 
 Specification:
-The following table shows pin descriptions for a dual-port RAM with synchronous read (read through) and two clocks.
-IO pins | Description
--- | --
-clk1 | Positive-Edge   Write/Primary Read Clock
-clk2 | Positive-Edge   Dual Read Clock
-wea | Synchronous   Write Enable (active High)
-web | Synchronous   Write Enable (active High)
-add1 | Write/Primary   Read Address
-add2 | Dual   Read Address
-dia | Data   Input
-do1 | Primary Output Port
-dib | Data   Input
-do2 | Dual Output Port
+The dual-port RAM features two independent ports, A and B, allowing both ports to perform read and write operations independently or simultaneously. Each operation (read or write) is synchronized to its respective port’s clock. Both ports have dedicated input and output connections, including data_in, wr_en (write enable), rd_en (read enable), data_out, clock, and address lines. The table below provides a description of each pin for a dual-port RAM with synchronous read functionality and separate clocks for each port.
 
 
 simulation waveform:
