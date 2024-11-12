@@ -2,8 +2,8 @@
 Dual Clock Dual Port RAM using verilog
 
 Team 1:
--- | --
 Name | College
+-- | --
 Sameeksha | Delhi Technological University
 Aishani | DCRUST
 Ananya Singhal | Ajay Kumar Garg Engineering College
