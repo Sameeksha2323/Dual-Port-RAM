@@ -12,11 +12,6 @@ Amritha Anujan | IIIT Kottayam
 Mentor:
 Sanjay Kumar Saini
 
-Presentation:
-!(https://www.canva.com/design/DAGTvxuOlXA/8aKrtdbtJZaXSVuQFBUUJg/edit?utm_content=DAGTvxuOlXA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-Report: [IN PROCESS]
-
 Specification:
 The dual-port RAM features two independent ports, A and B, allowing both ports to perform read and write operations independently or simultaneously. Each operation (read or write) is synchronized to its respective port’s clock. Both ports have dedicated input and output connections, including data_in, wr_en (write enable), rd_en (read enable), data_out, clock, and address lines. The table below provides a description of each pin for a dual-port RAM with synchronous read functionality and separate clocks for each port.
 
